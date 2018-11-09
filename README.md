@@ -1,0 +1,1 @@
+Arquitectura Room + RecyclerView
